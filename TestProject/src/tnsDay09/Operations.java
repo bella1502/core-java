@@ -1,7 +1,7 @@
 //method overloading
 /*signature must be different like: */
 
-package tnsDay9;
+package tnsDay09;
 
 public class Operations {
 	public static void add()

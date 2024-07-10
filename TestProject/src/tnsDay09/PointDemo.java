@@ -1,4 +1,4 @@
-package tnsDay9;
+package tnsDay09;
 
 public class PointDemo {
 
